@@ -1,0 +1,31 @@
+table {
+  border-collapse: collapse;
+}
+
+tr,
+td,
+th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 10px;
+}
+
+th,td {
+      width: 200px;
+      height: 50px;
+}
+
+.button {
+   border-radius: 5px;
+   width: 100%;
+   color: white;
+   border: none;
+}
+
+.search {
+    background-color: rgb(60, 60, 232);
+}
+
+.clear {
+    background-color: grey;
+}

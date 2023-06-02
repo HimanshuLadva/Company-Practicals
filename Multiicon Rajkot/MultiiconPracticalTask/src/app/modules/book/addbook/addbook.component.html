@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row justify-content-center mt-3">
+    <div class="col-6">
+      <form [formGroup]="book" (ngSubmit)="submitData()">
+        <div class="mb-3">
+          <label for="Title" class="form-label">Book Title</label>
+          <input type="text" class="form-control" id="Title" formControlName="Title">
+        </div>
+        <div class="mb-3">
+          <label for="Author" class="form-label">Book Author</label>
+          <input type="text" class="form-control" id="Author" formControlName="Author">
+        </div>
+        <div class="mb-3">
+          <label for="Description" class="form-label">Description</label>
+          <input type="text" class="form-control" id="Description" formControlName="Description">
+        </div>
+        <div class="mb-3">
+          <button class="btn btn-primary" type="submit">submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

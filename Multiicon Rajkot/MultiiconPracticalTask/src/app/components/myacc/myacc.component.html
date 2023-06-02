@@ -1,0 +1,32 @@
+<div class="container mt-3">
+  <div class="text-end">
+     <button class="btn btn-danger" (click)="logout()">logout</button>
+  </div>
+  <div class="row justify-content-center">
+    <div class="col-6">
+      <div class="fs-3 text-center">User Form</div>
+      <form class="fs-5" [formGroup]="userForm" (ngSubmit)="submitData()">
+        <div class="mb-3">
+          <label for="FirstName">First Name</label>
+          <input type="text" class="form-control" id="FirstName" formControlName="FirstName" ngModel="{{firstName}}">
+        </div>
+        <div class="mb-3">
+          <label for="LastName">Last Name</label>
+          <input type="text" class="form-control" id="LastName" formControlName="LastName" ngModel="{{lastName}}">
+        </div>
+        <div class="mb-3">
+          <label for="LastName">Email</label>
+          <input type="text" class="form-control" id="Email" formControlName="Email" ngModel="{{email}}">
+        </div>
+        <div class="mb-3">
+          <label for="Password">Password</label>
+          <input type="text" class="form-control" id="Password" formControlName="Password" ngModel="{{password}}">
+        </div>
+        <div class="mb-3">
+          <button type="submit" class="btn btn-primary">Update User</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+

@@ -1,0 +1,98 @@
+<div class="container">
+  <div class="row mt-3">
+    <div class="col">
+      <h3 class="text-start">Edit User Profile</h3>
+    </div>
+    <div class="col text-end">
+      <button class="btn btn-success" (click)="submitCheckedData()">Submit</button>
+    </div>
+  </div>
+  <form [formGroup]="userForm" (ngSubmit)="submitData()">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="mb-3">
+          <label for="Name" class="form-label">Name</label>
+          <input type="text" class="form-control" id="Name" formControlName="Name">
+          <span class="text-danger" *ngIf="(userFormControl['Name'].touched) && userFormControl['Name'].invalid">
+            Name is required
+          </span>
+        </div>
+        <div class="mb-3">
+          <label for="Email" class="form-label">Email</label>
+          <input type="text" class="form-control" id="Email" formControlName="Email">
+          <span class="text-danger" *ngIf="(userFormControl['Email'].touched) && userFormControl['Email'].invalid">
+            Email is required
+          </span>
+        </div>
+        <div class="mb-3">
+          <label for="Role" class="form-label">Role</label>
+          <select class="form-select" name="Role" formControlName="Role">
+            <option value="">Select Role</option>
+            <option value="User">User</option>
+            <option value="Admin">Admin</option>
+            <option value="Client">Client</option>
+          </select>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="mb-3">
+          <label for="Password" class="form-label">Password</label>
+          <input type="text" class="form-control" id="Password" formControlName="Password">
+          <span class="text-danger"
+            *ngIf="(userFormControl['Password'].touched) && userFormControl['Password'].invalid">
+            Password is required
+          </span>
+        </div>
+        <div class="mb-3">
+          <label for="IsActive" class="form-label">Status: </label>
+          <div class="form-check">
+            <input class="form-check-input" value="true" type="radio" name="IsActive" id="IsActive1"
+              formControlName="IsActive">
+            <label class="form-check-label" for="IsActive1">
+              Active
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" value="false" type="radio" name="IsActive" id="IsActive2"
+              formControlName="IsActive">
+            <label class="form-check-label" for="IsActive2">
+              InActive
+            </label>
+          </div>
+          <span class="text-danger"
+            *ngIf="(userFormControl['IsActive'].touched) && userFormControl['IsActive'].invalid">
+            IsActive is required
+          </span>
+        </div>
+      </div>
+      <div class="mb-3">
+        <button class="btn btn-primary" type="submit" [disabled]="!userForm.valid">submit</button>&nbsp;
+        <button class="btn btn-danger" (click)="clearForm()">clear</button>
+      </div>
+    </div>
+  </form>
+  <div class="row gap-1 text-light justify-content-center">
+    <div class="col-3 bg-success bg-gradient" *ngFor="let item of departmentwiseLocation">
+      <ul type="none">
+        <li>
+          <div class="form-check">
+            <input class="form-check-input fs-5" type="checkbox" value="" id="{{'flexCheckDefaultMain'+item.id}}"
+              (click)="checkBoxForDepartment(item.id)" [checked]="item.isSelected">
+            <label class="form-check-label fw-bolder fs-5 fst-italic" for="{{'flexCheckDefaultMain'+item.id}}">
+              {{item.departmentName}}
+            </label>
+          </div>
+        </li>
+        <li *ngFor="let location of item.locationNames">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="{{'flexCheckDefault'+location.id}}"
+              (click)="checkBoxForLocation(location.id, item.id)" [checked]="location.isSelected">
+            <label class="form-check-label" for="{{'flexCheckDefault'+location.id}}">
+              {{location.name}}
+            </label>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

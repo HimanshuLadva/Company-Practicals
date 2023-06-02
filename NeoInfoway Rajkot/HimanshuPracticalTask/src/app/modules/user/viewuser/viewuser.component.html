@@ -1,0 +1,63 @@
+<div class="container mt-3">
+  <div class="row">
+    <div class="col">
+      <h3 class="text-start">Users</h3>
+    </div>
+    <div class="col text-end">
+      <button class="btn btn-success" (click)="addUser()">Add User</button>
+    </div>
+    <div class="row mt-3">
+      <div class="col">
+        <input type="text" placeholder="Search....." #box>
+        <button (click)="searchWord(box.value)">Search</button>
+     </div>
+    </div>
+  <div class="row mt-3">
+     <table>
+         <tr>
+            <th>FirstName</th>
+            <th>LastName</th>
+            <th>Email</th>
+            <th>Gender</th>
+            <th>Education</th>
+            <th>Action</th>
+         </tr>
+         <tr *ngFor="let user of Users| filter:term">
+             <td>{{user.firstName}}</td>
+             <td>{{user.lastName}}</td>
+             <td>{{user.email}}</td>
+             <td>{{user.genderId=="1"?"Male":"Female"}}</td>
+             <td>{{user.education}}</td>
+             <td>
+                 <div class="d-flex justify-content-evenly align-items-between">
+                    <p><button class="btn btn-warning" (click)="editUser(user.id)">Edit</button></p>
+                    <p><button class="btn btn-danger" (click)="deleteUser(user.id)">Delete</button></p>
+                 </div>
+             </td>
+         </tr>
+     </table>
+  </div>
+</div>
+<!-- <div class="container mt-3">
+  <div class="row">
+    <div class="col">
+      <h3 class="text-start">Users</h3>
+    </div>
+    <div class="col text-end">
+        <button class="btn btn-success" (click)="addUser()">Add User</button>
+    </div>
+  </div>
+  <div class="row mt-4">
+    <div class="col-3 mt-3" *ngFor="let user of Users">
+      
+      <div class="card" style="width: 18rem;">
+        <div class="card-body">
+          <h5 class="card-title">{{user.email}}</h5>
+          <h6 class="card-subtitle mb-2 text-body-secondary">Password :{{user.password}}</h6>
+          <p class="card-text">{{user.firstName + " " +user.lastName}}</p>
+          <button class="btn btn-danger" (click)="deleteUser(user.id)">Delete</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->

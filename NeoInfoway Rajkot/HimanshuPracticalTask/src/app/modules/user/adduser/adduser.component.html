@@ -1,0 +1,82 @@
+<div class="container">
+  <div class="row justify-content-center mt-3">
+    <div class="col-6">
+      <form [formGroup]="user" (ngSubmit)="submitData()">
+        <div class="mb-3">
+          <label for="FirstName" class="form-label">First Name</label>
+          <input type="text" class="form-control" id="FirstName" formControlName="FirstName">
+          <span class="text-danger"
+            *ngIf="(userFormControl['FirstName'].touched) && userFormControl['FirstName'].invalid">
+            FirstName is required
+          </span>
+        </div>
+        <div class="mb-3">
+          <label for="LastName" class="form-label">Last Name</label>
+          <input type="text" class="form-control" id="LastName" formControlName="LastName">
+          <span class="text-danger"
+            *ngIf="(userFormControl['LastName'].touched) && userFormControl['LastName'].invalid">
+            LastName is required
+          </span>
+        </div>
+        <div class="mb-3">
+          <label for="Gender" class="form-label">Gender</label>
+          <div class="form-check">
+            <input class="form-check-input" value="1" type="radio" name="GenderId" id="GenderId1"
+              formControlName="GenderId">
+            <label class="form-check-label" for="GenderId1">
+              Male
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" value="2" type="radio" name="GenderId" id="GenderId2"
+              formControlName="GenderId">
+            <label class="form-check-label" for="GenderId2">
+              Female
+            </label>
+          </div>
+          <span class="text-danger"
+            *ngIf="(userFormControl['GenderId'].touched) && userFormControl['GenderId'].invalid">
+            GenderId is required
+          </span>
+        </div>
+        <div class="mb-3">
+          <label for="Education" class="form-label">Education</label>
+          <select class="form-select" name="EduactionId" formControlName="EducationId">
+            <option value="0">Select Education</option>
+            <option *ngFor="let education of educationList" [ngValue]="education.id">{{education.educationName}}
+            </option>
+          </select>
+          
+        </div>
+        <div class="mb-3">
+          <label for="Email" class="form-label">Email</label>
+          <input type="text" class="form-control" id="Email" formControlName="Email">
+          <span class="text-danger"
+            *ngIf="(userFormControl['Email'].touched) && userFormControl['Email'].invalid">
+            Email is required
+          </span>
+        </div>
+        <div class="mb-3">
+          <label for="Password" class="form-label">Password</label>
+          <input type="text" class="form-control" id="Password" formControlName="Password">
+          <span class="text-danger"
+            *ngIf="(userFormControl['Password'].touched) && userFormControl['Password'].invalid">
+            Password is required
+          </span>
+        </div>
+        <!-- <div class="mb-3">
+          <label>Role:</label>
+          <select class="form-select" aria-label="Default select example" formControlName="IsAdmin">
+            <option value="">Role</option>
+            <option value=false>User</option>
+            <option value=true>Admin</option>
+          </select>
+        </div> -->
+        <div class="mb-3">
+          <button class="btn btn-primary" type="submit" [disabled]="!user.valid">submit</button>&nbsp;
+          <button class="btn btn-danger" (click)="clearForm()">clear</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

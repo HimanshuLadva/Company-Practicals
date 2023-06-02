@@ -1,0 +1,35 @@
+<div class="container">
+  <div class="row justify-content-center mt-3">
+    <div class="col-6">
+      <form [formGroup]="user" (ngSubmit)="submitData()">
+        <div class="mb-3">
+          <label for="FirstName" class="form-label">First Name</label>
+          <input type="text" class="form-control" id="FirstName" formControlName="FirstName">
+        </div>
+        <div class="mb-3">
+          <label for="LastName" class="form-label">Last Name</label>
+          <input type="text" class="form-control" id="LastName" formControlName="LastName">
+        </div>
+        <div class="mb-3">
+          <label for="Email" class="form-label">Email</label>
+          <input type="text" class="form-control" id="Email" formControlName="Email">
+        </div>
+        <div class="mb-3">
+          <label for="Password" class="form-label">Password</label>
+          <input type="text" class="form-control" id="Password" formControlName="Password">
+        </div>
+        <div class="mb-3">
+          <label>Role:</label>
+          <select class="form-select" aria-label="Default select example" formControlName="IsAdmin">
+            <option value="">Role</option>
+            <option value=false>User</option>
+            <option value=true>Admin</option>
+          </select>
+        </div>
+        <div class="mb-3">
+          <button class="btn btn-primary" type="submit">submit</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

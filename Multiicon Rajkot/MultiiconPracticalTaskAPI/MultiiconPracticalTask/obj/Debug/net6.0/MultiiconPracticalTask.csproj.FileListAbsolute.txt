@@ -1,0 +1,219 @@
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\appsettings.Development.json
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\appsettings.json
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.exe
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.deps.json
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.runtimeconfig.json
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.pdb
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Humanizer.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.AssemblyReference.cache
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.AssemblyInfoInputs.cache
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.AssemblyInfo.cs
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.CoreCompileInputs.cache
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.MvcApplicationPartsAssemblyInfo.cs
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.MvcApplicationPartsAssemblyInfo.cache
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.MultiiconPracticalTask.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.build.MultiiconPracticalTask.props
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MultiiconPracticalTask.props
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MultiiconPracticalTask.props
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.build.json
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.development.json
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\scopedcss\bundle\MultiiconPracticalTask.styles.css
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.CopyComplete
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\refint\MultiiconPracticalTask.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.pdb
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.genruntimeconfig.cache
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\ref\MultiiconPracticalTask.dll
+F:\ASP.NET API\My projects\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\appsettings.Development.json
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\appsettings.json
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.exe
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.deps.json
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.runtimeconfig.json
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.pdb
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Humanizer.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.AssemblyReference.cache
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.AssemblyInfoInputs.cache
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.AssemblyInfo.cs
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.CoreCompileInputs.cache
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.MvcApplicationPartsAssemblyInfo.cs
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.MvcApplicationPartsAssemblyInfo.cache
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.MultiiconPracticalTask.Microsoft.AspNetCore.StaticWebAssets.props
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.build.MultiiconPracticalTask.props
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MultiiconPracticalTask.props
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MultiiconPracticalTask.props
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.pack.json
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.build.json
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.development.json
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\scopedcss\bundle\MultiiconPracticalTask.styles.css
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.CopyComplete
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\refint\MultiiconPracticalTask.dll
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.pdb
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.genruntimeconfig.cache
+D:\learn\MultiiconPracticalTask\MultiiconPracticalTask\obj\Debug\net6.0\ref\MultiiconPracticalTask.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\appsettings.Development.json
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\appsettings.json
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.exe
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.deps.json
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.runtimeconfig.json
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\MultiiconPracticalTask.pdb
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Humanizer.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.AssemblyReference.cache
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.AssemblyInfoInputs.cache
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.AssemblyInfo.cs
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.CoreCompileInputs.cache
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.MvcApplicationPartsAssemblyInfo.cs
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.MvcApplicationPartsAssemblyInfo.cache
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.MultiiconPracticalTask.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.build.MultiiconPracticalTask.props
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MultiiconPracticalTask.props
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MultiiconPracticalTask.props
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.build.json
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\staticwebassets.development.json
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\scopedcss\bundle\MultiiconPracticalTask.styles.css
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.csproj.CopyComplete
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\refint\MultiiconPracticalTask.dll
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.pdb
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\MultiiconPracticalTask.genruntimeconfig.cache
+F:\Company Practicals\Multiicon Rajkot\MultiiconPracticalTaskAPI\MultiiconPracticalTask\obj\Debug\net6.0\ref\MultiiconPracticalTask.dll

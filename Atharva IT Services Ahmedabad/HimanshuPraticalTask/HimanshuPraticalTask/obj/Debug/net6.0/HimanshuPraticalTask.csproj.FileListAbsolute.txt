@@ -1,0 +1,15 @@
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\bin\Debug\net6.0\HimanshuPraticalTask.exe
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\bin\Debug\net6.0\HimanshuPraticalTask.deps.json
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\bin\Debug\net6.0\HimanshuPraticalTask.runtimeconfig.json
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\bin\Debug\net6.0\HimanshuPraticalTask.dll
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\bin\Debug\net6.0\HimanshuPraticalTask.pdb
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\HimanshuPraticalTask.csproj.AssemblyReference.cache
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\HimanshuPraticalTask.GeneratedMSBuildEditorConfig.editorconfig
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\HimanshuPraticalTask.AssemblyInfoInputs.cache
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\HimanshuPraticalTask.AssemblyInfo.cs
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\HimanshuPraticalTask.csproj.CoreCompileInputs.cache
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\HimanshuPraticalTask.dll
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\refint\HimanshuPraticalTask.dll
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\HimanshuPraticalTask.pdb
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\HimanshuPraticalTask.genruntimeconfig.cache
+F:\Company Practicals\Atharva IT Services Ahmedabad\HimanshuPraticalTask\HimanshuPraticalTask\obj\Debug\net6.0\ref\HimanshuPraticalTask.dll

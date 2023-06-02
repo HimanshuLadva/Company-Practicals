@@ -1,0 +1,1 @@
+export const USERURL = 'https://localhost:44331/api/user/';

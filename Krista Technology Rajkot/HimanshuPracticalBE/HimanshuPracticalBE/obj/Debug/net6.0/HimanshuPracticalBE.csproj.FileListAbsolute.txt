@@ -1,0 +1,139 @@
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\appsettings.Development.json
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\appsettings.json
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.exe
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.deps.json
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.runtimeconfig.json
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.pdb
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Humanizer.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.csproj.AssemblyReference.cache
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.GeneratedMSBuildEditorConfig.editorconfig
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.AssemblyInfoInputs.cache
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.AssemblyInfo.cs
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.csproj.CoreCompileInputs.cache
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.MvcApplicationPartsAssemblyInfo.cs
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.MvcApplicationPartsAssemblyInfo.cache
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets\msbuild.HimanshuPracticalBE.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets\msbuild.build.HimanshuPracticalBE.props
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HimanshuPracticalBE.props
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HimanshuPracticalBE.props
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets.build.json
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets.development.json
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\scopedcss\bundle\HimanshuPracticalBE.styles.css
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.csproj.CopyComplete
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\refint\HimanshuPracticalBE.dll
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.pdb
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.genruntimeconfig.cache
+F:\Company Practicals\Krista Technology Rajkot\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\ref\HimanshuPracticalBE.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.exe
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.deps.json
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.runtimeconfig.json
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\HimanshuPracticalBE.pdb
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\scopedcss\bundle\HimanshuPracticalBE.styles.css
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.csproj.CopyComplete
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\refint\HimanshuPracticalBE.dll
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.pdb
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\HimanshuPracticalBE.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\HimanshuPractical\HimanshuPracticalBE\HimanshuPracticalBE\obj\Debug\net6.0\ref\HimanshuPracticalBE.dll
